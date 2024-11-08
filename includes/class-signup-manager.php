@@ -146,7 +146,6 @@ class Signup_Manager {
 		$this->loader->add_action( 'admin_menu', $plugin_admin, 'add_admin_page' );
 		$this->loader->add_action( 'admin_post_delete_signup', $plugin_admin, 'delete_signup' );
 		$this->loader->add_action( 'admin_post_resend_activation', $plugin_admin, 'resend_activation' );
-		$this->loader->add_action( 'admin_init', $plugin_admin, 'add_last_email_sent_column' );
 	}
 
 
