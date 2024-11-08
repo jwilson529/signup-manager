@@ -1,4 +1,4 @@
-# Plugin Name
+# Pending Signup Manager
 
 **Contributors**: james@oneclickcontent.com  
 **Donate link**: [https://oneclickcontent.com/](https://oneclickcontent.com/)  

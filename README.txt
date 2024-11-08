@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Pending Signup Manager ===
 Contributors: james@oneclickcontent.com
 Donate link: https://oneclickcontent.com/
 Tags: signup, email, user management, admin tools
