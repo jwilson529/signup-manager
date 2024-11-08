@@ -4,7 +4,7 @@
 **Donate link**: [https://oneclickcontent.com/](https://oneclickcontent.com/)  
 **Tags**: signup, email, user management, admin tools  
 **Requires at least**: 5.0  
-**Tested up to**: 6.3  
+**Tested up to**: 6.6  
 **Stable tag**: 1.0.0  
 **Requires PHP**: 7.2  
 **License**: GPLv2 or later  
